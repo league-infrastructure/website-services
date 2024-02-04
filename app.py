@@ -7,8 +7,7 @@ from flask import (
 )
 from leaguesync import Pike13DataFrames, Pike13, one_month_ago, Calendar
 
-from . import create_app, get_p13
-from .util import *
+from util import *
 from leaguesync.util import convert_naive
 app = create_app()
 
