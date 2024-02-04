@@ -18,7 +18,6 @@ Be sure to have dokku as a remote for git
 git remote add dokku dokku@league.do.cnshost.net:jtlsnip
 ```
 
-
 Deploy
 
 ```
